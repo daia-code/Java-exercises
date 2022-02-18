@@ -1,2 +1,0 @@
-# Java-exercises
-Basic exercises
